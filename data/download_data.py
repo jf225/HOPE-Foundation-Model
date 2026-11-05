@@ -1,3 +1,10 @@
+# First step of our data pipeline for the KairosHOPE timeseries classification version of the model
+# Downloads the pretraining, finetuning and classification data
+# Cuts the data into windows of 256 data readings and 8 reading patches
+# Drops incomplete data and compresses long ucr data
+
+
+
 import io
 import urllib.request
 import zipfile
