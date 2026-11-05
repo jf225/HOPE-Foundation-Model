@@ -4,7 +4,7 @@ Finished:
 - Data downloader/pipeline
 - Embed layer
 - Classification head
-- CMS model *being verified*
+- CMS model
 
 Todo:  
 - Implement titans model
