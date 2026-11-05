@@ -1,3 +1,9 @@
+# Embed layer for the KairosHOPE timeseries classification version of our model
+# Scales and shifts the readings, linear layer expands patches of 8 to 128 valued tokens
+# Adds a CLS token to the end of the batch, creates all tokens, positions, and RevIN as learnable parameters
+# Adds a function to create the hidden patches for the masked time series modelling loss function
+
+
 import torch
 import torch.nn as nn
 
