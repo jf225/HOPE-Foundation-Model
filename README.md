@@ -1,6 +1,17 @@
 # HOPE-Foundation-Model
 
-Todo:
-I have the Monash data locally, but it's too big to upload to GitHub, so I need to make a file to pull it
-The embed layer is mapped out but not working correctly; it should be done by Thursday
-The existing UCR data should already be cut into windows of 256; I will upload the file for that when I can make a full auto-data downloader
+Finished:  
+- Data downloader/pipeline
+- Embed layer
+- Classification head
+- CMS model *being verified*
+
+Todo:  
+- Implement titans model
+- Wrap the HOPE Foundation Model (Titans + CMS) together
+- Implement Masking pretraining loss function
+- Create a throwaway linear layer to shrink output CLS token from 128 to 8 for mask pretraining loss function
+- Implement Contrastive Learning loss function (needs to be planned out still)
+- Unit test data downloader
+- Unit test embed
+- Unit test Classification (I think)
