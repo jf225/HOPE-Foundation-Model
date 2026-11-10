@@ -18,3 +18,4 @@ Todo:
 - CMS Adaptive Gating
 - CMS MLP inversion
 - Timescale Modification
+- Timeseries Forecasting
