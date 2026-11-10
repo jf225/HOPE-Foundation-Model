@@ -19,4 +19,8 @@ Todo:
 - CMS Adaptive Gating
 - CMS MLP inversion
 - Timescale Modification (Check the ucr data, most are probably too short for this to be viable)
+
+Stretch Goals:
 - Timeseries Forecasting
+- Customized Loss function (to solve decreased accuracy on multiclass classification)
+- Add statistical vector head to finetuning section (can be added without changing pretrained model so should be computationally cheap to test)
