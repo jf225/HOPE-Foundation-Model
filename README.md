@@ -7,11 +7,11 @@ Finished:
 - CMS model
 - Implement titans model
 - Wrap the HOPE Foundation Model (Titans + CMS) together
-- Implement Masking pretraining loss function
+- Masking pretraining loss function
 - Unit test CMS Module
+- Contrastive Loss function for pretraining
 
 Todo:  
-- Implement Contrastive Learning loss function (needs to be planned out still)
 - Unit test data downloader
 - Unit test embed
 - Unit test Classification (I think)
