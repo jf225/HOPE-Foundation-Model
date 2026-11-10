@@ -15,6 +15,7 @@ Todo:
 - Unit test data downloader
 - Unit test embed
 - Unit test Classification (I think)
+- Train and test baseline model for initial results
 - CMS Adaptive Gating
 - CMS MLP inversion
 - Timescale Modification
