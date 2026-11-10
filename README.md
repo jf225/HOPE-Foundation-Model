@@ -18,5 +18,5 @@ Todo:
 - Train and test baseline model for initial results
 - CMS Adaptive Gating
 - CMS MLP inversion
-- Timescale Modification
+- Timescale Modification (Check the ucr data, most are probably too short for this to be viable)
 - Timeseries Forecasting
