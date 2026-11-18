@@ -10,14 +10,16 @@ Finished:
 - Masking pretraining loss function
 - Unit test CMS Module
 - Contrastive Loss function for pretraining
+- CMS Adaptive Gating
+- CMS MLP inversion
+- MLP Inversion Unit Tests
 
 Todo:  
 - Unit test data downloader
 - Unit test embed
 - Unit test Classification (I think)
 - Train and test baseline model for initial results
-- CMS Adaptive Gating
-- CMS MLP inversion
+- CMS Adaptive Gating Unit Tests
 - Timescale Modification (Check the ucr data, most are probably too short for this to be viable)
 
 Stretch Goals:
